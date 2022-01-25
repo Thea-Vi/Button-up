@@ -1,0 +1,31 @@
+
+.Btn-1, .Btn-2, .Btn-3{
+    display: block;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.Btn-1{
+    font-weight: 900;
+    width: 100px;
+    border-radius: 20px;
+    color: teal;
+    border: 2px solid teal;
+    background-color: white;
+}
+
+.Btn-2{
+    width: 40px;
+    background-color: #00d1b2;
+    color: #fff;
+    border-radius: 50%;
+    border: none;
+}
+
+.Btn-3{
+    width: 150px;
+    background-color: #2b78e4;
+    color: #fff;
+    border: 2px solid #000;
+    box-shadow: 3px 3px black;
+}
